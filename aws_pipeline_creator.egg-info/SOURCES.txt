@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+aws_pipeline_creator/PipelineCreator.py
+aws_pipeline_creator/__init__.py
+aws_pipeline_creator/command.py
+aws_pipeline_creator.egg-info/PKG-INFO
+aws_pipeline_creator.egg-info/SOURCES.txt
+aws_pipeline_creator.egg-info/dependency_links.txt
+aws_pipeline_creator.egg-info/entry_points.txt
+aws_pipeline_creator.egg-info/requires.txt
+aws_pipeline_creator.egg-info/top_level.txt
+test/__init__.py

@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        role-creator=aws_role_creator.command:cli
+    

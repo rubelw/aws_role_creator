@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        pipeline-creator=aws_pipeline_creator.command:cli
+    
