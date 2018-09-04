@@ -1,2 +1,0 @@
-aws_pipeline_creator
-test
