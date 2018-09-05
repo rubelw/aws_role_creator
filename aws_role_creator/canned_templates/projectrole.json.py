@@ -1,6 +1,6 @@
 {
     "AWSTemplateFormatVersion": "2010-09-09",
-    "Description": "IAM Roles and policies for parp-m",
+    "Description": "IAM Roles and policies",
     "Parameters": {
         "IAMNamespace": {
             "Description": "Namespace for IAM users, policies, etc.",
