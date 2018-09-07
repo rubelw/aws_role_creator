@@ -2,3 +2,5 @@ click>=6.7
 future
 boto3>=1.6.8
 stackility
+troposphere
+awacs
