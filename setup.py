@@ -7,7 +7,7 @@ from os import path
 from io import open
 
 
-DESCRIPTION = ("Creates AWS Rolee.")
+DESCRIPTION = ("Creates AWS Role.")
 this_directory = path.abspath(path.dirname(__file__))
 with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     LONG_DESCRIPTION = f.read()

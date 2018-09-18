@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+aws_role_creator/RoleCreator.py
+aws_role_creator/__init__.py
+aws_role_creator/command.py
+aws_role_creator.egg-info/PKG-INFO
+aws_role_creator.egg-info/SOURCES.txt
+aws_role_creator.egg-info/dependency_links.txt
+aws_role_creator.egg-info/entry_points.txt
+aws_role_creator.egg-info/requires.txt
+aws_role_creator.egg-info/top_level.txt
+test/__init__.py
